@@ -6,7 +6,7 @@ Fundamentals of Photonics Journal Club
     - Python / Jupyter Lab
 
 - Meeting 2 (Computational physics With python)
-- https://websites.umich.edu/~mejn/computational-physics/
+    - https://websites.umich.edu/~mejn/computational-physics/
     - Appendix A
         - Installing python
         - Installing jupyter
