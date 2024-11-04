@@ -8,11 +8,15 @@ Fundamentals of Photonics Journal Club
 - Meeting 2 (Computational physics With python)
     - https://websites.umich.edu/~mejn/computational-physics/
     - Appendix A
-        - Installing python
-        - Installing jupyter
+        - ~~installing python~~
+        - ~~Installing jupyter~~
+        - Create an account on www.kaggle.com
     - Python programming for physicists (Chapter 2)
     - Homework 
-        - install python and explore python in the REPL
+        - ~~install python and explore python in the REPL~~
+        - Create a new notebook in kaggle
+        - navigate using jupyter notebooks:
+          https://www.geeksforgeeks.org/how-to-use-jupyter-notebook-an-ultimate-guide/
 
 - Meeting 3 (Linear Algebra (Part 1))
     - Review homework
